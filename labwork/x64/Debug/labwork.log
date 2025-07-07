@@ -1,0 +1,18 @@
+﻿  matrix.cpp
+C:\LabWork\labwork\labwork\matrix.cpp(34,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\LabWork\labwork\labwork\matrix.cpp(37,2): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(46,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\LabWork\labwork\labwork\matrix.cpp(56,2): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(65,2): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(257,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(261,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(267,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(280,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(296,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(320,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(437,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(543,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(563,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(580,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\LabWork\labwork\labwork\matrix.cpp(626,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  labwork.vcxproj -> C:\LabWork\labwork\x64\Debug\labwork.exe
